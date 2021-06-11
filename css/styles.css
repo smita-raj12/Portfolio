@@ -1,0 +1,51 @@
+.my-class {
+  border: 2px solid rgb(185, 100, 44);
+  float:center;
+  background-color: lightcoral;
+  padding-top: 3px;
+  padding-left: 10px;
+  box-sizing: border-box;
+  width: fit-content;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.myimg-class{
+  padding-top: 10px;
+  padding-right: 7px;
+  float: left;
+  border-image-width: 4mm;
+}
+
+.h1-class{
+  padding-bottom:5px;
+  text-align: center;
+  font-size: 10mm;
+  font-style: normal;
+  color: firebrick;
+}
+
+.p-class{
+  text-align: left;
+  font-size: 5mm;
+  width: 80%;
+  padding-left: 10px;
+}
+
+body{
+  background-color: rgb(241, 219, 192);
+}
+
+.divo-class{
+  width: 70%;
+  font-size: 6mm;
+}
+
+.sp-class{
+  font-style: oblique;
+}
+
+.h-class{
+  padding-top:auto;
+  background-color: slategrey;
+}
