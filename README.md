@@ -1,6 +1,6 @@
 ## Application Name:
 
- portfolio
+ Portfolio
 
 ## Name of contributors:
 
@@ -37,7 +37,7 @@
  
  * Navigate to the directory.
  
- * Open portfolio/index.html on your choice of code editor.
+ * Open Portfolio/index.html on your choice of code editor.
  
  * If you are using Vscode, open the command palette and search for `live server: open with live server`
 
