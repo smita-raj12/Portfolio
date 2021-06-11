@@ -1,6 +1,6 @@
 ## Application Name:
 
- portfolio
+ Portfolio
 
 ## Name of contributors:
 
@@ -8,7 +8,7 @@
  
 ## Live Site
 
-[https://smita-raj12.github.io/portfolio/](https://smita-raj12.github.io/portfolio/)
+[https://smita-raj12.github.io/Portfolio/](https://smita-raj12.github.io/Portfolio/)
 
 ## Brief description of the project:
      
@@ -31,13 +31,13 @@
 
 ## Complete setup/installation instructions:
 
- * Go to [portfolio](https://github.com/smita-raj12/portfolio) 
+ * Go to [Portfolio](https://github.com/smita-raj12/Portfolio) 
  
  * Clone this repository to your desktop.
  
  * Navigate to the directory.
  
- * Open portfolio/index.html on your choice of code editor.
+ * Open Portfolio/index.html on your choice of code editor.
  
  * If you are using Vscode, open the command palette and search for `live server: open with live server`
 
